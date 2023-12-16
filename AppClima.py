@@ -1,7 +1,6 @@
 from tkinter import *
 import requests
-##ffbd6e5be11a513f4eaab23c2b891b1a
-#https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid={API key}
+
 #
 #
 #
